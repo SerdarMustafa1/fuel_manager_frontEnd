@@ -1,6 +1,6 @@
-# front-end
+# fuel_manager_frontEnd
 
-> A Vue.js project
+If you havn't already done so, please install and run teh server from: https://github.com/SerdarMustafa1/fuel_manager
 
 ## Build Setup
 
@@ -18,5 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# fuel_manager_frontEnd
+For details about the endpoints, please refer to the about page available here in the front end.
